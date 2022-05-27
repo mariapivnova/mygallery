@@ -22,7 +22,7 @@ public class ImageHelper {
         }
         return inSampleSize;
     }
-
+// какой-то метод
     public static Bitmap decodeSampleBitmapFromPath(String pathname, int reqWidth, int reqHeight) {
         BitmapFactory.Options options = new BitmapFactory.Options();
         options.inJustDecodeBounds = true;

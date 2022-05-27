@@ -85,3 +85,4 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
         }
     }
 }
+// Единстенный комментарий на русском

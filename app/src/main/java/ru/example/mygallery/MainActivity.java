@@ -17,6 +17,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
+    //Что-то происходит
     List<Cell> allFilesPaths;
     @Override
     protected void onCreate(Bundle savedInstanceState) {

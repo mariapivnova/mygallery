@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.widget.ImageView;
 
 public class MainActivity2 extends AppCompatActivity {
-
+// ещё какой-то метод
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
